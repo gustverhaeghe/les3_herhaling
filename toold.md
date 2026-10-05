@@ -1,3 +1,3 @@
 # Tools
 
-Favourite tool: Git
+Favourite tool: Github
