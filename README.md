@@ -11,3 +11,7 @@ Git staat lokaal op je computer en houdt je geschiedenis bij van je code. Terwij
 ## Begrijp je dit goed?
 
 Ik dnek wel dat ik dit redelijk onder de knie heb kan altijd wel beter maar de basis van Git ken ik oke.
+
+## Waarom heb ik voor programmeren gekozen?
+
+Ik wouw iets nieuws proberen met ene toevoeging aan mijn huidige diploma.
